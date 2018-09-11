@@ -1,0 +1,10 @@
+consul_address: "localhost"
+consul_port: "8500"
+consul_scheme: "http"
+consul_ca_file: ""
+consul_cert_file: ""
+consul_key_file: ""
+consul_insecure_skip_verify: false
+consul_token: "token"
+consul_timeout: "2s"
+consul_base_path: ac2/aws/ap-southeast-2/hps
